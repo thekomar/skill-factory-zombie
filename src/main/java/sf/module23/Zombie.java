@@ -1,4 +1,4 @@
-package sf;
+package sf.module23;
 
 public class Zombie extends Monster {
     public static String scream = "Raaaauuughhhh ";

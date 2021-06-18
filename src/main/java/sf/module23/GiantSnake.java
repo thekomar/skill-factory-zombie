@@ -1,4 +1,4 @@
-package sf;
+package sf.module23;
 
 public class GiantSnake extends Monster {
     public static String scream = "Ssssss";

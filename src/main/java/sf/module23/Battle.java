@@ -1,4 +1,4 @@
-package sf;
+package sf.module23;
 
 public class Battle {
     private final int MAX = 5;
